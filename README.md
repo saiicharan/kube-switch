@@ -46,14 +46,15 @@ You'll see a list of contexts to choose from. Use your keyboard to search and se
 ### Install fzf:
 
 macOS (Homebrew):
-
+```bash
    brew install fzf
+```
 
 Ubuntu/Debian:
-
+```bash
    sudo apt update
    sudo apt install fzf
-
+```
 ---
 
 ## 🧠 Why Use kube-switch?
@@ -74,4 +75,4 @@ MIT License — free to use, share, and improve. See LICENSE.
 
 ## 🙌 Credits
 
-Built with 💡 by Sai Charan (https://github.com/yourusername)
+Built with 💡 by Sai Charan (https://github.com/saiicharan)
